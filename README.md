@@ -9,5 +9,6 @@ kreiraju objekte učitavanjem s tipkovnice (3 boda)
 ispisuju objekte na vizualno prihvatljiv način (obavezna _repr_ i _str_ funkcija u klasi) (3 boda) 
 pretražuju objekte po nekim standardnim parametrima (3boda) 
 sve to morate opisati kroz KORISNIČKU dokumentaciju s Python kodom 
-sučelje ne mora biti grafičko, dovoljno je tekstualno
+sučelje ne mora biti grafičko, dovoljno je tekstualno.
+
 
